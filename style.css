@@ -89,3 +89,6 @@ hr {
   height: 1px;
   background-color: hsl(215, 32%, 27%);
 }
+.stat > .price {
+  color: hsl(178, 100%, 50%);
+}
